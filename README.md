@@ -10,26 +10,30 @@ A (non-comprehensive) bibliography of Fedora presentations and publications. Ent
 ## Presentations
 
 * Chen, Y., & Wead, A. (2017). Samvera and Fedora 4 Performance, *Samvera Connect*, Evanston, IL.
+* Choudhury, S., Johnson, R., Spies, J., Wilcox, D. (2017). [OSF and Fedora: Removing Barriers Between Preservation and Active Research](https://drive.google.com/open?id=1xShN3uXBfSDDC0j4T5PFvyBmZpFCPBCH3B8kjFe09d0), *Open Repositories*, Brisbane, AU.
 * Ruest, N., Wilcox, D (2015). Hacking the Community: A Model for Open Source Engagement, *Open Repositories*, Indianapolis, Indiana.
 * Ruest, N., Mumma, C., Fleming, D., Giarlo, M., Woods, A. (2013). Building Successful, Open Repository Software Ecosystems: Technology and Community, *Open Repositories*, Helsinki, Finland.
-* Wilcox, D. (2017). [Always on the Move: Transient Software and Data Migrations](https://drive.google.com/open?id=17wwaGAMc8SVq2aZ4zcf20E1WEPlc5Dj6KrDtK2hDKdY), *International Conference on Digital Preservation*, Kyoto, JP.
-* Wilcox, D., Birkland, A., Weinraub, E., Pope, E. (2017). [Digital Preservation: The Fedora Community Approach via Standards and Specifications](https://www.cni.org/topics/digital-preservation/digital-preservation-the-fedora-community-approach-via-standards-and-specifications), *Coalition for Networked Information Fall Meeting*, Washington, D.C.
-* Wilcox, D. (2017). [Fedora, Islandora, and Samvera: Requirements and Gaps](https://drive.google.com/open?id=1L4dNVHvOyKBZELnS5b3NaJLha0ebXOuqWa_F4KTUiyU), *Research Data Alliance 10th Plenary*, Montreal, QC.
-* Wilcox, D. (2017). [Supporting Digital Preservation and Access with Fedora](https://drive.google.com/open?id=164ZQmBThbWa5VtKH2guLWu0TkDDJDb32p0xZk0Zf7tg), *Digital Library Federation Forum*, Pittsburgh, PA.
-* Wilcox, D. (2017). [Supporting Digital Preservation and Access with Fedora](https://drive.google.com/open?id=1Nfz4st8lrOBmeVcNKApIzAsCI5fuo1yiE8KKnBMDYVo), *Samvera Connect*, Evanston, IL.
-* Wilcox, D., & Woods, A. (2017). [Fedora Project and Community Update](https://drive.google.com/open?id=1dvncHK2qiQJby7le82Y8IXIpDLpCxkZ39eYGtjdnASg), *Samvera Connect*, Evanston, IL.
-* Wilcox, D. (2017). [Fedora Project and Community Update](https://drive.google.com/open?id=1OqybEWGNU1WOE_njknmBmvWl1ZPiZCbXRqwKG43ENl8), *Digital Library Federation Forum*, Pittsburgh, PA.
 * Wilcox, D., Cramer, T., Anez, M., Donohue, T., Carr, L. (2016). Repository Rodeo. *Open Repositories*, Dublin, Ireland.
 * Wilcox, D., Wead, A., Ruest, N., Friscia, M. (2015). [Upgrading? Migrating? There’s a portmanteau for that!](http://hdl.handle.net/10315/29516), *Open Repositories*, Indianapolis, Indiana.
+* Wilcox, D., & Woods, A. (2017). [Fedora Project and Community Update](https://drive.google.com/open?id=1ArFfbrtLEA0c9cq0QqU0cHeUN2ubE66MJl5aFv3PlWc), *Open Repositories*, Brisbane, AU.
+* Wilcox, D., Donohue, T., Fyson, W., Cramer, T., Anez, M., Simko, T. (2017). [Repository Rodeo Redux](https://drive.google.com/open?id=1l0w6tZ38UObjnkdUzzqklV22gNTlA-9H5WkYsZbpJt8), *Open Repositories*, Brisbane, AU.
+* Wilcox, D. (2017). [Fedora, Islandora, and Samvera: Requirements and Gaps](https://drive.google.com/open?id=1L4dNVHvOyKBZELnS5b3NaJLha0ebXOuqWa_F4KTUiyU), *Research Data Alliance 10th Plenary*, Montreal, QC.
+* Wilcox, D. (2017). [Always on the Move: Transient Software and Data Migrations](https://drive.google.com/open?id=17wwaGAMc8SVq2aZ4zcf20E1WEPlc5Dj6KrDtK2hDKdY), *International Conference on Digital Preservation*, Kyoto, JP.
+* Wilcox, D. (2017). [Fedora Project and Community Update](https://drive.google.com/open?id=1OqybEWGNU1WOE_njknmBmvWl1ZPiZCbXRqwKG43ENl8), *Digital Library Federation Forum*, Pittsburgh, PA.
+* Wilcox, D. (2017). [Supporting Digital Preservation and Access with Fedora](https://drive.google.com/open?id=164ZQmBThbWa5VtKH2guLWu0TkDDJDb32p0xZk0Zf7tg), *Digital Library Federation Forum*, Pittsburgh, PA.
+* Wilcox, D., & Woods, A. (2017). [Fedora Project and Community Update](https://drive.google.com/open?id=1dvncHK2qiQJby7le82Y8IXIpDLpCxkZ39eYGtjdnASg), *Samvera Connect*, Evanston, IL.
+* Wilcox, D. (2017). [Supporting Digital Preservation and Access with Fedora](https://drive.google.com/open?id=1Nfz4st8lrOBmeVcNKApIzAsCI5fuo1yiE8KKnBMDYVo), *Samvera Connect*, Evanston, IL.
+* Wilcox, D., Birkland, A., Weinraub, E., Pope, E. (2017). [Digital Preservation: The Fedora Community Approach via Standards and Specifications](https://www.cni.org/topics/digital-preservation/digital-preservation-the-fedora-community-approach-via-standards-and-specifications), *Coalition for Networked Information Fall Meeting*, Washington, D.C.
 * Woods, A., & Wilcox, D. (2017). [Better Together: VIVO and Fedora](https://drive.google.com/open?id=1Stp5aR9AhorWTUMZhh8yy9SGRrrL11AhOgRPZvEnnoU), *VIVO Conference*, New York, NY.
 
 ## Workshops
 
 * Cowles, E., Durbin, M., Chen, Y. (2018). Interacting with Standards, Hands-on Fedora, *Code4lib*, Washington, D.C.
-* Wilcox, D., & Woods, A. (2017). [Extending Fedora: API-X and Import/Export](https://wiki.duraspace.org/display/FF/2017-11-06+Samvera+Connect+-+Using+and+Extending+Fedora+Workshop), *Samvera Connect*, Evanston, IL.
+* Wilcox, D., Woods, A., Birkland, A. (2017). [Using and Extending Fedora](https://wiki.duraspace.org/display/FF/2017-06-27+OR2017+Using+and+Extending+Fedora+Workshop), *Open Repositories*, Brisbane, AU.
 * Wilcox, D. (2017). [Curating Digital Content with Fedora](https://wiki.duraspace.org/display/FF/2017-09-29+iPRES+Curating+Digital+Content+with+Fedora+Tutorial), *International Conference on Digital Preservation*, Kyoto, JP.
-* Wilcox, D. (2017). [Managing Assets as Linked Data with Fedora](https://wiki.duraspace.org/display/FF/2017-12-04+SWIB17+-+Fedora+Workshop), *Semantic Web in Libraries*, Hamburg, Germany.
 * Wilcox, D. (2017). [Managing Assets as Linked Data with Fedora and the Portland Common Data Model](https://wiki.duraspace.org/display/FF/2017-10-24+DLF+-+Fedora+Workshop), *Digital Library Federation Forum*, Pittsburgh, PA.
+* Wilcox, D., & Woods, A. (2017). [Extending Fedora: API-X and Import/Export](https://wiki.duraspace.org/display/FF/2017-11-06+Samvera+Connect+-+Using+and+Extending+Fedora+Workshop), *Samvera Connect*, Evanston, IL.
+* Wilcox, D. (2017). [Managing Assets as Linked Data with Fedora](https://wiki.duraspace.org/display/FF/2017-12-04+SWIB17+-+Fedora+Workshop), *Semantic Web in Libraries*, Hamburg, Germany.
 * Wilcox, D. (2018). [Supporting FAIR Data Principles with Fedora](https://wiki.duraspace.org/display/FF/2018-02-22+IDCC+-+Fedora+Workshop), *IDCC*, Barcelona, Spain.
 * Woods, A., & Wilcox, D. (2017). [Managing Assets as Linked Data with Fedora](https://wiki.duraspace.org/display/FF/2017-08-02+VIVO+Conference+-+Managing+Assets+as+Linked+Data+with+Fedora), *VIVO Conference*, New York, NY.
 
